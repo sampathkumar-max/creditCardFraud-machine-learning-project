@@ -1,0 +1,18 @@
+Final_dataset
+log_msg
+model
+prediction_database
+Training_database
+
+****this all folder we need to create before running the code******
+
+Training_raw_file
+Training_Archived
+predictive_raw_file
+prediction_Archived
+Filefrom_DB
+pre_filefrom_db
+
+****better to delete this folder before running****
+
+
